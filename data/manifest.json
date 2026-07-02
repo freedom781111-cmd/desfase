@@ -1,0 +1,611 @@
+{
+  "title": "DESFASE, FRAGMENTACIÓN Y VIOLENCIA",
+  "description": "Ensayos sobre la fotografía cuando el sistema la pule, la premia, la domestica y luego finge que todavía está viva.",
+  "generatedAt": "2026-07-01",
+  "siteUrl": "",
+  "mainPdfUrl": "",
+  "mainPdfFile": "",
+  "posts": [
+    {
+      "id": "01",
+      "slug": "la-sospecha-percepcion-exceso-y-retraso",
+      "title": "LA SOSPECHA: PERCEPCIÓN, EXCESO Y RETRASO",
+      "displayTitle": "PERCEPCIÓN EXCESO Y RETRASO",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Este proyecto parte de una sospecha que no busca ser resuelta, sino sostenida. La realidad ocurre en exceso respecto a cualquier sistema de percepción, registro o legitimación. Ocurre más rápido de lo que puede ser...",
+      "tags": [
+        "percepción"
+      ],
+      "readingTime": 7,
+      "wordCount": 1431
+    },
+    {
+      "id": "02",
+      "slug": "el-instante-como-violencia-necesaria",
+      "title": "EL INSTANTE COMO VIOLENCIA NECESARIA",
+      "displayTitle": "EL INSTANTE COMO VIOLENCIA NECESARIA",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "No es una unidad natural del tiempo. Es el resultado de un corte. Una operación que interrumpe el flujo continuo del devenir para volverlo legible.",
+      "tags": [
+        "fricción",
+        "tiempo"
+      ],
+      "readingTime": 2,
+      "wordCount": 353
+    },
+    {
+      "id": "03",
+      "slug": "historia-de-una-incomodidad",
+      "title": "HISTORIA DE UNA INCOMODIDAD",
+      "displayTitle": "HISTORIA DE UNA INCOMODIDAD",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "(intentos de fractura del punto de vista) La historia del arte moderno y contemporáneo no es una historia de estilos. Es una historia de incomodidades no resueltas. Una serie de intentos reiterados por fracturar la...",
+      "tags": [
+        "ensayo"
+      ],
+      "readingTime": 2,
+      "wordCount": 463
+    },
+    {
+      "id": "04",
+      "slug": "del-objeto-al-campo",
+      "title": "DEL OBJETO AL CAMPO",
+      "displayTitle": "DEL OBJETO AL CAMPO",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Queda como resto de una promesa de orden que no se sostiene. Su contorno persiste, pero ha perdido eficacia. No articula. No contiene. No garantiza nada. Es apenas un punto provisional en una red que lo excede.",
+      "tags": [
+        "archivo"
+      ],
+      "readingTime": 2,
+      "wordCount": 485
+    },
+    {
+      "id": "05",
+      "slug": "el-espectador-como-sistema-incompleto",
+      "title": "EL ESPECTADOR COMO SISTEMA INCOMPLETO",
+      "displayTitle": "EL ESPECTADOR COMO SISTEMA INCOMPLETO",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "No ocupa un lugar previo: es configurado por el campo al mismo tiempo que intenta configurarlo.",
+      "tags": [
+        "percepción"
+      ],
+      "readingTime": 7,
+      "wordCount": 1555
+    },
+    {
+      "id": "06",
+      "slug": "institucion-archivo-y-poder-del-recorte",
+      "title": "INSTITUCIÓN, ARCHIVO Y PODER DEL RECORTE",
+      "displayTitle": "INSTITUCIÓN ARCHIVO Y RECORTE",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "(aquí la memoria deja de ser garantía) La institución no es un contenedor de verdad.",
+      "tags": [
+        "archivo"
+      ],
+      "readingTime": 7,
+      "wordCount": 1627
+    },
+    {
+      "id": "07",
+      "slug": "obra-muda",
+      "title": "OBRA MUDA",
+      "displayTitle": "OBRA MUDA Y PERCEPCIÓN",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Desde el inicio de este proyecto se ha señalado que la experiencia ocurre antes de que pueda organizarse como pensamiento. La percepción no coincide con el acontecimiento que pretende capturar. Entre lo que ocurre...",
+      "tags": [
+        "ensayo"
+      ],
+      "readingTime": 5,
+      "wordCount": 1055
+    },
+    {
+      "id": "08",
+      "slug": "etica-de-la-insuficiencia",
+      "title": "ÉTICA DE LA INSUFICIENCIA",
+      "displayTitle": "ÉTICA DE LA INSUFICIENCIA",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Aceptar la insuficiencia de la mirada no es un gesto de modestia intelectual.",
+      "tags": [
+        "ensayo"
+      ],
+      "readingTime": 6,
+      "wordCount": 1317
+    },
+    {
+      "id": "09",
+      "slug": "el-tiempo-como-materia-hostil",
+      "title": "EL TIEMPO COMO MATERIA HOSTIL",
+      "displayTitle": "EL TIEMPO COMO MATERIA HOSTIL",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "El tiempo no es un fondo neutro donde los acontecimientos se despliegan con orden. No es una superficie pasiva sobre la que las cosas simplemente ocurren.",
+      "tags": [
+        "tiempo"
+      ],
+      "readingTime": 6,
+      "wordCount": 1309
+    },
+    {
+      "id": "10",
+      "slug": "el-cuerpo-como-dispositivo-impreciso",
+      "title": "EL CUERPO COMO DISPOSITIVO IMPRECISO",
+      "displayTitle": "EL CUERPO COMO DISPOSITIVO IMPRECISO",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "El cuerpo no es un instrumento fiable. No es un observador neutral. No es un mecanismo que pueda capturar la realidad en su totalidad. El cuerpo es un sistema situado: condicionado por su biología, su historia, su...",
+      "tags": [
+        "percepción"
+      ],
+      "readingTime": 5,
+      "wordCount": 1119
+    },
+    {
+      "id": "11",
+      "slug": "contra-la-experiencia-total",
+      "title": "CONTRA LA EXPERIENCIA TOTAL",
+      "displayTitle": "CONTRA LA EXPERIENCIA TOTAL",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "La experiencia total es una promesa falsa. Un residuo de pensamiento totalizante que confunde acumulación con comprensión. Se presenta como horizonte de plenitud, como la posibilidad de que una obra, un dispositivo...",
+      "tags": [
+        "ensayo"
+      ],
+      "readingTime": 8,
+      "wordCount": 1684
+    },
+    {
+      "id": "12",
+      "slug": "la-obra-como-sistema-abierto-y-hostil",
+      "title": "LA OBRA COMO SISTEMA ABIERTO Y HOSTIL",
+      "displayTitle": "OBRA COMO SISTEMA HOSTIL",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "No optimiza la experiencia. No suaviza la fricción. No corrige la incomodidad.",
+      "tags": [
+        "ensayo"
+      ],
+      "readingTime": 9,
+      "wordCount": 2015
+    },
+    {
+      "id": "13",
+      "slug": "la-institucion-como-aparato-de-fijacion",
+      "title": "LA INSTITUCIÓN COMO APARATO DE FIJACIÓN",
+      "displayTitle": "INSTITUCIÓN COMO APARATO FIJADOR",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Su gesto fundamental no es mirar, ni interpretar, ni custodiar en un sentido neutral. Su gesto es detener. Interrumpir el movimiento de las cosas para fijarlas dentro de una estructura que promete estabilidad.",
+      "tags": [
+        "archivo"
+      ],
+      "readingTime": 8,
+      "wordCount": 1800
+    },
+    {
+      "id": "14",
+      "slug": "archivo-sin-nostalgia",
+      "title": "ARCHIVO SIN NOSTALGIA",
+      "displayTitle": "ARCHIVO SIN NOSTALGIA INSTITUCIONAL",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Decide qué sobrevive y bajo qué forma. Decide qué se vuelve consultable y qué queda fuera del campo cultural.",
+      "tags": [
+        "archivo"
+      ],
+      "readingTime": 1,
+      "wordCount": 76
+    },
+    {
+      "id": "15",
+      "slug": "contra-la-didactica",
+      "title": "CONTRA LA DIDÁCTICA",
+      "displayTitle": "CONTRA LA DIDÁCTICA INSTITUCIONAL",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "La institución educativa espera claridad. Este proyecto produce fricción cognitiva. No se explica.",
+      "tags": [
+        "ensayo"
+      ],
+      "readingTime": 8,
+      "wordCount": 1722
+    },
+    {
+      "id": "16",
+      "slug": "el-texto-como-material-duro",
+      "title": "EL TEXTO COMO MATERIAL DURO",
+      "displayTitle": "EL TEXTO COMO MATERIAL DURO",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Cada párrafo fija una posición. Cada afirmación excluye otras. Cada palabra deja afuera algo que no puede nombrar.",
+      "tags": [
+        "fricción"
+      ],
+      "readingTime": 7,
+      "wordCount": 1613
+    },
+    {
+      "id": "17",
+      "slug": "el-espectador-como-sujeto-expuesto",
+      "title": "EL ESPECTADOR COMO SUJETO EXPUESTO",
+      "displayTitle": "EL ESPECTADOR COMO SUJETO EXPUESTO",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "No se le concede centralidad. No se lo halaga. No se le promete experiencia transformadora.",
+      "tags": [
+        "percepción"
+      ],
+      "readingTime": 9,
+      "wordCount": 2047
+    },
+    {
+      "id": "18",
+      "slug": "ritmo-sin-catarsis",
+      "title": "RITMO SIN CATARSIS",
+      "displayTitle": "RITMO SIN CATARSIS VISUAL",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "El ritmo no conduce a una revelación. Conduce a un desgaste. A una saturación controlada. La experiencia no se organiza siguiendo la lógica de la narrativa clásica, ni de la exposición tradicional. La expectativa...",
+      "tags": [
+        "fricción"
+      ],
+      "readingTime": 5,
+      "wordCount": 1165
+    },
+    {
+      "id": "19",
+      "slug": "negativa-a-la-imagen-total",
+      "title": "NEGATIVA A LA IMAGEN TOTAL",
+      "displayTitle": "NEGATIVA A LA IMAGEN TOTAL",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Cualquier intento de resumir traiciona el planteamiento. Cualquier selección final vuelve a mentir.",
+      "tags": [
+        "fricción"
+      ],
+      "readingTime": 12,
+      "wordCount": 2711
+    },
+    {
+      "id": "20",
+      "slug": "violencia-sin-espectaculo",
+      "title": "VIOLENCIA SIN ESPECTÁCULO",
+      "displayTitle": "VIOLENCIA SIN ESPECTÁCULO VISUAL",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "La violencia en la obra no se manifiesta como espectáculo. No se da mediante gestos grandilocuentes, ni mediante imágenes impactantes que buscan conmover o aturdir al espectador. No hay sangre literal, no hay...",
+      "tags": [
+        "fricción"
+      ],
+      "readingTime": 6,
+      "wordCount": 1420
+    },
+    {
+      "id": "21",
+      "slug": "el-presente-como-resto",
+      "title": "EL PRESENTE COMO RESTO",
+      "displayTitle": "EL PRESENTE COMO RESTO",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "El presente, tal como lo experimentamos, nunca se ofrece en su totalidad. Cada instante es inmediatamente pasado en cuanto lo reconocemos; cada percepción es simultáneamente recuerdo y registro de algo que ya ha...",
+      "tags": [
+        "tiempo"
+      ],
+      "readingTime": 7,
+      "wordCount": 1603
+    },
+    {
+      "id": "22",
+      "slug": "cierre-sin-cierre",
+      "title": "CIERRE SIN CIERRE",
+      "displayTitle": "CIERRE SIN CIERRE TOTAL",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "La obra se mantiene en estado de tensión porque su coherencia depende de su incompletitud. No se trata de un descuido ni de un error de planificación; no es falta de rigor. Por el contrario, la decisión de no...",
+      "tags": [
+        "cierre"
+      ],
+      "readingTime": 6,
+      "wordCount": 1412
+    },
+    {
+      "id": "23",
+      "slug": "negativa-al-cierre",
+      "title": "NEGATIVA AL CIERRE",
+      "displayTitle": "NEGATIVA AL CIERRE TOTAL",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Cerrar implica producir síntesis, otorgar plenitud, consolidar fragmentos dispersos en un todo reconocible. Pero esta obra rechaza esa posibilidad. La resolución es incompatible con su lógica: cada fragmento...",
+      "tags": [
+        "cierre"
+      ],
+      "readingTime": 5,
+      "wordCount": 1082
+    },
+    {
+      "id": "24",
+      "slug": "epilogo-cierre-imposible",
+      "title": "EPÍLOGO: CIERRE IMPOSIBLE",
+      "displayTitle": "EPÍLOGO DE CIERRE IMPOSIBLE",
+      "kind": "essay",
+      "category": "Ensayo",
+      "sourceLabel": "Ensayo principal",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Desde los primeros intentos de representación, desde los primeros registros de la experiencia humana, el mundo se ha mostrado como resistente a toda síntesis, a toda imagen completa, a toda idea de totalidad. Cada...",
+      "tags": [
+        "cierre"
+      ],
+      "readingTime": 13,
+      "wordCount": 2851
+    },
+    {
+      "id": "25",
+      "slug": "la-mirada-que-juzga-desde-el-sofa",
+      "title": "La mirada que juzga desde el sofá",
+      "displayTitle": "LA MIRADA QUE JUZGA DESDE EL SOFÁ",
+      "kind": "reading",
+      "category": "Lecturas",
+      "sourceLabel": "Lectura PDF",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "No porque tengan ojos. No porque tengan alma. No porque el arte, esa palabra que usamos cuando no queremos hablar de culpa, venga a salvarnos de nada.",
+      "tags": [
+        "percepción",
+        "mirada",
+        "lectura"
+      ],
+      "readingTime": 33,
+      "wordCount": 7322,
+      "pageCount": 42
+    },
+    {
+      "id": "26",
+      "slug": "donde-quedo-la-originalidad",
+      "title": "Dónde quedó la originalidad",
+      "displayTitle": "DÓNDE QUEDÓ LA ORIGINALIDAD",
+      "kind": "reading",
+      "category": "Lecturas",
+      "sourceLabel": "Lectura PDF",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "No estoy sentado en una mecedora llorando porque antes las fotos venían con grano, sudor y olor a cuarto oscuro.",
+      "tags": [
+        "originalidad",
+        "lectura"
+      ],
+      "readingTime": 17,
+      "wordCount": 3667,
+      "pageCount": 23
+    },
+    {
+      "id": "27",
+      "slug": "decir-que-el-arte-es-arte-y-cada-uno-lo-interpreta-como-quiere-suena-hermoso",
+      "title": "Decir que “el arte es arte y cada uno lo interpreta como quiere” suena hermoso",
+      "displayTitle": "EL ARTE COMO INTERPRETACIÓN LIBRE",
+      "kind": "reading",
+      "category": "Lecturas",
+      "sourceLabel": "Lectura PDF",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Suena como una frase dicha con copa de vino en la mano, mirada profunda, camisa negra y una absoluta ausencia de responsabilidad intelectual.",
+      "tags": [
+        "museo",
+        "lectura"
+      ],
+      "readingTime": 40,
+      "wordCount": 8861,
+      "pageCount": 52
+    },
+    {
+      "id": "28",
+      "slug": "la-copia-tambien-tiene-beca",
+      "title": "LA COPIA TAMBIÉN TIENE BECA",
+      "displayTitle": "LA COPIA TAMBIÉN TIENE BECA",
+      "kind": "reading",
+      "category": "Lecturas",
+      "sourceLabel": "Lectura PDF",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Hay una frase que debería estar escrita en la puerta de muchos museos contemporáneos, justo al lado del detector de metales, antes de que uno entregue la mochila, la dignidad y la capacidad de sospecha:",
+      "tags": [
+        "originalidad",
+        "lectura"
+      ],
+      "readingTime": 31,
+      "wordCount": 6759,
+      "pageCount": 40
+    },
+    {
+      "id": "29",
+      "slug": "cuando-la-fotografia-se-comporta-demasiado-bien",
+      "title": "Cuando la fotografía se comporta demasiado bien",
+      "displayTitle": "FOTOGRAFÍA QUE SE COMPORTA BIEN",
+      "kind": "reading",
+      "category": "Lecturas",
+      "sourceLabel": "Lectura PDF",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Hay fotografías que entran a una habitación como si pidieran disculpas.",
+      "tags": [
+        "fotografía",
+        "lectura"
+      ],
+      "readingTime": 28,
+      "wordCount": 6165,
+      "pageCount": 35
+    },
+    {
+      "id": "30",
+      "slug": "la-perfeccion-tambien-puede-ser-una-forma-de-censura",
+      "title": "La perfección también puede ser una forma de censura",
+      "displayTitle": "PERFECCIÓN COMO CENSURA VISUAL",
+      "kind": "reading",
+      "category": "Lecturas",
+      "sourceLabel": "Lectura PDF",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Una línea de río. Una línea de césped. Una línea de camino. Una línea de cielo.",
+      "tags": [
+        "censura",
+        "lectura"
+      ],
+      "readingTime": 27,
+      "wordCount": 5979,
+      "pageCount": 29
+    },
+    {
+      "id": "31",
+      "slug": "cuando-el-dolor-entra-al-museo-demasiado-bien-vestido",
+      "title": "Cuando el dolor entra al museo demasiado bien vestido",
+      "displayTitle": "DOLOR VESTIDO PARA MUSEO",
+      "kind": "reading",
+      "category": "Lecturas",
+      "sourceLabel": "Lectura PDF",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Llegan con barro, con sudor, con cansancio histórico, con cuerpos rotos, pero entran derechas, compuestas, impecables, casi perfumadas por la tragedia. Entran como si el sufrimiento hubiera pasado por una curaduría...",
+      "tags": [
+        "museo",
+        "lectura"
+      ],
+      "readingTime": 21,
+      "wordCount": 4557,
+      "pageCount": 22
+    },
+    {
+      "id": "32",
+      "slug": "la-mirada-que-se-vuelve-mercancia-humanitaria",
+      "title": "La mirada que se vuelve mercancía humanitaria",
+      "displayTitle": "MIRADA COMO MERCANCÍA HUMANITARIA",
+      "kind": "reading",
+      "category": "Lecturas",
+      "sourceLabel": "Lectura PDF",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "No como documento. No como encuentro. No como relación entre un fotógrafo, una persona, una historia y un contexto.",
+      "tags": [
+        "percepción",
+        "mirada",
+        "lectura"
+      ],
+      "readingTime": 35,
+      "wordCount": 7692,
+      "pageCount": 38
+    },
+    {
+      "id": "33",
+      "slug": "porque-en-2026-me-canse",
+      "title": "Porque en 2026 me cansé",
+      "displayTitle": "PORQUE EN 2026 ME CANSÉ",
+      "kind": "reading",
+      "category": "Lecturas",
+      "sourceLabel": "Lectura PDF",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "No fue una iluminación espiritual. No bajó Barthes del cielo con una Leica colgada al cuello para decirme: “Silvio, hijo mío, el punctum ha sido secuestrado por gente con ring light”.",
+      "tags": [
+        "cultura visual",
+        "lectura"
+      ],
+      "readingTime": 25,
+      "wordCount": 5527,
+      "pageCount": 27
+    },
+    {
+      "id": "34",
+      "slug": "no-quieren-verdad-quieren-statement",
+      "title": "No quieren verdad, quieren statement",
+      "displayTitle": "NO QUIEREN VERDAD, QUIEREN STATEMENT",
+      "kind": "reading",
+      "category": "Lecturas",
+      "sourceLabel": "Lectura PDF",
+      "date": "2026-07-01",
+      "dateLabel": "1 jul 2026",
+      "excerpt": "Uno todavía puede ser accidente. Uno puede ser un editor ocupado, una bandeja de entrada triste, una decisión tomada entre café frío y miedo tibio.",
+      "tags": [
+        "statement",
+        "lectura"
+      ],
+      "readingTime": 18,
+      "wordCount": 3992,
+      "pageCount": 20
+    }
+  ]
+}

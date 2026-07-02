@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Ensayos sobre la fotografía cuando el sistema la pule, la premia, la domestica y luego finge que todavía está viva.">
+  <meta property="og:title" content="DESFASE, FRAGMENTACIÓN Y VIOLENCIA">
+  <meta property="og:description" content="Ensayos sobre la fotografía cuando el sistema la pule, la premia, la domestica y luego finge que todavía está viva.">
+  <title>DESFASE, FRAGMENTACIÓN Y VIOLENCIA | Blog</title>
+  <link rel="icon" href="data:,">
+  <link rel="preload" href="./assets/styles.css?v=20260702-2" as="style">
+  <link rel="stylesheet" href="./assets/styles.css?v=20260702-2">
+  <script defer src="./data/data.js?v=20260702-2"></script>
+  <script defer src="./assets/app.js?v=20260702-2"></script>
+</head>
+<body>
+  <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+
+  <header class="site-header">
+    <a class="brand" href="#inicio" aria-label="Ir al inicio">
+      <span class="brand__name">Silvio Campos</span>
+      <span class="brand__discipline">VS Error iluminado</span>
+    </a>
+    <nav aria-label="Navegación principal">
+      <a href="#entradas">Textos</a>
+      <a href="#lectura">Lectura</a>
+    </nav>
+  </header>
+
+  <main id="inicio">
+    <section class="hero" aria-labelledby="blogTitle">
+      <div class="hero__inner">
+        <div class="hero__copy">
+          <p class="kicker">Blog / lectura crítica</p>
+          <h1 id="blogTitle">DESFASE, FRAGMENTACIÓN Y VIOLENCIA</h1>
+          <p class="lead">Ensayos sobre la fotografía cuando el sistema la pule, la premia, la domestica y luego finge que todavía está viva.</p>
+          <div class="hero-actions">
+            <a class="button button--primary" href="#entradas">Ver textos</a>
+            <a class="button" id="firstPostLink" href="#lectura">Empezar a leer</a>
+          </div>
+        </div>
+        <dl class="stats" aria-label="Resumen del blog">
+          <div>
+            <dt id="entryCount">0</dt>
+            <dd>entradas</dd>
+          </div>
+          <div>
+            <dt id="wordCount">0</dt>
+            <dd>palabras</dd>
+          </div>
+          <div>
+            <dt id="readingCount">0</dt>
+            <dd>lecturas</dd>
+          </div>
+        </dl>
+      </div>
+    </section>
+
+    <section class="toolbar" id="entradas" aria-label="Herramientas de lectura">
+      <div>
+        <p class="eyebrow">Índice rápido</p>
+        <h2>Entradas y lecturas</h2>
+      </div>
+      <label class="search">
+        <span>Buscar</span>
+        <input id="searchInput" type="search" placeholder="Percepción, archivo, cierre..." autocomplete="off">
+      </label>
+      <div class="filters" aria-label="Filtrar contenido">
+        <button type="button" class="filter-button is-active" data-filter="all">Todo</button>
+        <button type="button" class="filter-button" data-filter="essay">Ensayo</button>
+        <button type="button" class="filter-button" data-filter="reading">Lecturas</button>
+      </div>
+      <div class="text-controls" aria-label="Tamaño de texto">
+        <button type="button" id="decreaseText">A-</button>
+        <button type="button" id="increaseText">A+</button>
+      </div>
+    </section>
+
+    <section class="layout" id="lectura">
+      <aside class="post-index" aria-label="Lista de entradas">
+        <div class="index-header">
+          <h2>Índice</h2>
+          <p id="resultCount">Cargando...</p>
+        </div>
+        <div id="postList" class="post-list"></div>
+      </aside>
+
+      <article class="reader" id="reader" tabindex="-1" aria-live="polite"></article>
+    </section>
+
+    <section class="page-engagement" id="opiniones" aria-label="Lectores, comentarios e inscripción"></section>
+  </main>
+
+  <footer class="site-footer">
+    <p><strong>Silvio Campos</strong> / VS Error iluminado / Blog</p>
+    <p class="site-footer__note">Lectura crítica. Sin descargas PDF.</p>
+    <p class="site-footer__copyright">© 2026 Silvio Campos. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
